@@ -16,7 +16,7 @@ class Plant():
                    
 
 
-Plant1 = Plant("Rose", 25 , 30)
+Plant1 = Plant("Rose", -25 , 30)
 
 
 def ft_plant_growth(): 
